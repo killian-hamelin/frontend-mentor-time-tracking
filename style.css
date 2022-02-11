@@ -60,7 +60,7 @@ body {
 .main-card__user img {
     max-height: 70px;
     max-width: 70px;
-    border: inset 3px var(--white);
+    border: solid 3px var(--white);
     border-radius: 50%;
 }
 
